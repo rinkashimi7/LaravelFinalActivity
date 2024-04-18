@@ -1,0 +1,79 @@
+/* Add this CSS to your existing stylesheet or create a new one */
+
+.container {
+    margin-top: 50px;
+}
+
+.margin-tb {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.form-control {
+    width: 100%;
+}
+
+textarea.form-control {
+    height: 100px;
+    resize: none;
+}
+
+
+/* Add this CSS to your existing stylesheet or create a new one */
+
+.card {
+    border: 1px solid #ddd; /* Add a border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a shadow */
+}
+
+.card-header {
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    font-weight: bold; /* Bold text */
+}
+
+.card-body {
+    padding: 20px; /* Add padding */
+}
+
+.alert-success {
+    margin-top: 20px; /* Add some space between alert and content */
+}
+
+.text-center {
+    text-align: center; /* Center align text */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Blue background */
+    color: #fff; /* White text */
+    border: none; /* Remove border */
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px 20px; /* Add padding */
+    font-weight: bold; /* Bold text */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
